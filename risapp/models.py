@@ -21,7 +21,7 @@ class Post(models.Model):
     tag_name = models.CharField(max_length=10, blank=True, null=True)
 
     def __str__(self):
-        return self.caption
+        return self.author
     
     
 class Comments(models.Model):

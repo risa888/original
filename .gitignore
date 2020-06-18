@@ -1,1 +1,15 @@
 ebooks/
+news/
+jobs/
+onlines/
+profiles/
+original/
+quotes/
+samurai/
+uploads/
+__pycache__/
+.vscode/
+clients/
+*.jpg
+db.sqlite3
+media/

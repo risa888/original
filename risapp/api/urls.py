@@ -13,3 +13,4 @@ urlpatterns = [
     # path("risa/<int:pk>", PostDetailAPIView.as_view(),name="detail-post")
 
 ]
+##
