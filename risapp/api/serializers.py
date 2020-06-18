@@ -54,3 +54,6 @@ class TagsSerializer(serializers.ModelSerializer):
     class Meta:
         model = Tags
         fields = "__all__"
+
+
+#
